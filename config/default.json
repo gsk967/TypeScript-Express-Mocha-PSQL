@@ -1,0 +1,15 @@
+{
+	"NODE_ENV": "development",
+	"APP_NAME": "TypeScript and express and psql",
+	"HOST": "localhost",
+	"PORT": 3000,
+	"API_URL": "http://localhost:3000",
+	"WEB_URL": "https://localhost:8000",
+	"DB": {
+		"HOST": "localhost",
+		"PORT": 5432,
+		"USERNAME": "root",
+		"PASSWORD": "books123",
+		"DATABASE": "books_dev"
+	}
+}
